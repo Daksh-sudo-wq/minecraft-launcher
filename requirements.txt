@@ -1,0 +1,3 @@
+python (newest version)
+customtkinter
+minecraft-launcher-lib
